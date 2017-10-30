@@ -1,0 +1,7 @@
+C:\Users\Alizada\source\repos\ObjectMapper\ObjectMapper\bin\Debug\ObjectMapper.exe.config
+C:\Users\Alizada\source\repos\ObjectMapper\ObjectMapper\bin\Debug\ObjectMapper.exe
+C:\Users\Alizada\source\repos\ObjectMapper\ObjectMapper\bin\Debug\ObjectMapper.pdb
+C:\Users\Alizada\source\repos\ObjectMapper\ObjectMapper\obj\Debug\ObjectMapper.csprojResolveAssemblyReference.cache
+C:\Users\Alizada\source\repos\ObjectMapper\ObjectMapper\obj\Debug\ObjectMapper.csproj.CoreCompileInputs.cache
+C:\Users\Alizada\source\repos\ObjectMapper\ObjectMapper\obj\Debug\ObjectMapper.exe
+C:\Users\Alizada\source\repos\ObjectMapper\ObjectMapper\obj\Debug\ObjectMapper.pdb
